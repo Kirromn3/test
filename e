@@ -1,49 +1,49 @@
 local x =  game.Workspace.Vehicles:GetChildren()
 if x:FindFirstChild("BlackHawk") ~= nil then
-if game.Workspace.Vehicles:FindFirstChild("BlackHawk") then
+if game.Workspace.Vehicles:FindFirstChild("BlackHawk") ~= nil then
 
 game.Workspace.Vehicles.BlackHawk.Name = "eeee"
 end
-if game.Workspace.Vehicles:FindFirstChild("BlackHawk") then
+if game.Workspace.Vehicles:FindFirstChild("BlackHawk") ~= nil then
 
 game.Workspace.Vehicles.BlackHawk.Name = "eeee"
-end if game.Workspace.Vehicles:FindFirstChild("BlackHawk") then
+end if game.Workspace.Vehicles:FindFirstChild("BlackHawk") ~= nil then
 
 game.Workspace.Vehicles.BlackHawk.Name = "eeee"
-end if game.Workspace.Vehicles:FindFirstChild("BlackHawk") then
+end if game.Workspace.Vehicles:FindFirstChild("BlackHawk") ~= nil then
 
 game.Workspace.Vehicles.BlackHawk.Name = "eeee"
-end if game.Workspace.Vehicles:FindFirstChild("BlackHawk") then
+end if game.Workspace.Vehicles:FindFirstChild("BlackHawk") ~= nil then
 
 game.Workspace.Vehicles.BlackHawk.Name = "eeee"
-end if game.Workspace.Vehicles:FindFirstChild("BlackHawk") then
+end if game.Workspace.Vehicles:FindFirstChild("BlackHawk") ~= nil then
 
 game.Workspace.Vehicles.BlackHawk.Name = "eeee"
-end if game.Workspace.Vehicles:FindFirstChild("BlackHawk") then
+end if game.Workspace.Vehicles:FindFirstChild("BlackHawk") ~= nil then
 
 game.Workspace.Vehicles.BlackHawk.Name = "eeee"
-end if game.Workspace.Vehicles:FindFirstChild("BlackHawk") then
+end if game.Workspace.Vehicles:FindFirstChild("BlackHawk") ~= nil then
 
 game.Workspace.Vehicles.BlackHawk.Name = "eeee"
-end if game.Workspace.Vehicles:FindFirstChild("BlackHawk") then
+end if game.Workspace.Vehicles:FindFirstChild("BlackHawk") ~= nil then
 
 game.Workspace.Vehicles.BlackHawk.Name = "eeee"
-end if game.Workspace.Vehicles:FindFirstChild("BlackHawk") then
+end if game.Workspace.Vehicles:FindFirstChild("BlackHawk") ~= nil then
 
 game.Workspace.Vehicles.BlackHawk.Name = "eeee"
-end if game.Workspace.Vehicles:FindFirstChild("BlackHawk") then
+end if game.Workspace.Vehicles:FindFirstChild("BlackHawk") ~= nil then
 
 game.Workspace.Vehicles.BlackHawk.Name = "eeee"
-end if game.Workspace.Vehicles:FindFirstChild("BlackHawk") then
+end if game.Workspace.Vehicles:FindFirstChild("BlackHawk") ~= nil then
 
 game.Workspace.Vehicles.BlackHawk.Name = "eeee"
-end if game.Workspace.Vehicles:FindFirstChild("BlackHawk") then
+end if game.Workspace.Vehicles:FindFirstChild("BlackHawk") ~= nil then
 
 game.Workspace.Vehicles.BlackHawk.Name = "eeee"
-end if game.Workspace.Vehicles:FindFirstChild("BlackHawk") then
+end if game.Workspace.Vehicles:FindFirstChild("BlackHawk") ~= nil then
 
 game.Workspace.Vehicles.BlackHawk.Name = "eeee"
-end if game.Workspace.Vehicles:FindFirstChild("BlackHawk") then
+end if game.Workspace.Vehicles:FindFirstChild("BlackHawk") ~= nil then
 
 game.Workspace.Vehicles.BlackHawk.Name = "eeee"
 end
