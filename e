@@ -31,7 +31,7 @@ local dependencies = {
     helicopters = { Heli = true }, -- heli is included in free vehicles
     motorcycles = { Heli = true }, -- volt type is "custom" but works the same as a motorcycle
     free_vehicles = { Heli = true },
-    unsupported_vehicles = { Heli = true },
+    unsupported_vehicles = { Wraith = true },
     door_positions = { }    
 };
 
@@ -59,7 +59,7 @@ function utilities:get_nearest_vehicle(tried) -- unoptimized
             local vehicle = action.ValidRoot;
 
             if not table.find(tried, vehicle) and workspace.VehicleSpawns:FindFirstChild(vehicle.Name) then
-                if not dependencies.unsupported_vehicles[vehicle.Name] and (dependencies.modules.store._state.garageOwned.Vehicles[vehicle.Name] or dependencies.free_vehicles[vehicle.Name]) and not vehicle.Seat.Player.Value then -- check if the vehicle is supported, owned and not already occupied
+                if not dependencies.unsupported_vehicles[vehicle.Name] and (dependencies.modules.store._state.garageOwned.Vehicles[vehicle.Name] or dependencies.free_vehicles[vehicle.Name])  or dependencies.helicopters[vehicle.Name]) and not vehicle.Seat.Player.Value then -- check if the vehicle is supported, owned and not already occupied
                     if not workspace:Raycast(vehicle.Seat.Position, dependencies.variables.up_vector, dependencies.variables.raycast_params) then
                         local magnitude = (vehicle.Seat.Position - player.Character.HumanoidRootPart.Position).Magnitude; 
 
