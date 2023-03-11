@@ -32,7 +32,7 @@ local dependencies = {
     helicopters = { Heli = true }, -- heli is included in free vehicles
     motorcycles = { Heli = true }, -- volt type is "custom" but works the same as a motorcycle
     free_vehicles = { Heli = true },
-    unsupported_vehicles = { Wraith = true },
+    unsupported_vehicles = { Wraith = true, BlackHawk = true },
     door_positions = { }    
 };
 
