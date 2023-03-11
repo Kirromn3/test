@@ -1,5 +1,42 @@
+local x =  game.Workspace.Vehicles:GetChildren()
+if x:FindFirstChild("BlackHawk") ~= nil then
+game.Workspace.Vehicles.BlackHawk.Name = "eeee"
+game.Workspace.Vehicles.BlackHawk.Name = "eeee"
 
+game.Workspace.Vehicles.BlackHawk.Name = "eeee"
+game.Workspace.Vehicles.BlackHawk.Name = "eeee"
+game.Workspace.Vehicles.BlackHawk.Name = "eeee"
+game.Workspace.Vehicles.BlackHawk.Name = "eeee"
+game.Workspace.Vehicles.BlackHawk.Name = "eeee"
+game.Workspace.Vehicles.BlackHawk.Name = "eeee"
+game.Workspace.Vehicles.BlackHawk.Name = "eeee"
+game.Workspace.Vehicles.BlackHawk.Name = "eeee"
+game.Workspace.Vehicles.BlackHawk.Name = "eeee"
+game.Workspace.Vehicles.BlackHawk.Name = "eeee"
+game.Workspace.Vehicles.BlackHawk.Name = "eeee"
+game.Workspace.Vehicles.BlackHawk.Name = "eeee"
+game.Workspace.Vehicles.BlackHawk.Name = "eeee"
+game.Workspace.Vehicles.BlackHawk.Name = "eeee"
+game.Workspace.Vehicles.BlackHawk.Name = "eeee"
+game.Workspace.Vehicles.BlackHawk.Name = "eeee"
+game.Workspace.Vehicles.BlackHawk.Name = "eeee"
+game.Workspace.Vehicles.BlackHawk.Name = "eeee"
+game.Workspace.Vehicles.BlackHawk.Name = "eeee"
+game.Workspace.Vehicles.BlackHawk.Name = "eeee"
+game.Workspace.Vehicles.BlackHawk.Name = "eeee"
+game.Workspace.Vehicles.BlackHawk.Name = "eeee"
+game.Workspace.Vehicles.BlackHawk.Name = "eeee"
+game.Workspace.Vehicles.BlackHawk.Name = "eeee"
+game.Workspace.Vehicles.BlackHawk.Name = "eeee"
+game.Workspace.Vehicles.BlackHawk.Name = "eeee"
+game.Workspace.Vehicles.BlackHawk.Name = "eeee"
+game.Workspace.Vehicles.BlackHawk.Name = "eeee"
+game.Workspace.Vehicles.BlackHawk.Name = "eeee"
+game.Workspace.Vehicles.BlackHawk.Name = "eeee"
+game.Workspace.Vehicles.BlackHawk.Name = "eeee"
 
+end
+spawn(function()
 
 local replicated_storage = game:GetService("ReplicatedStorage");
 local run_service = game:GetService("RunService");
@@ -318,3 +355,4 @@ local function teleport(cframe, tried) -- unoptimized
 end;
 
 return teleport;
+end)
