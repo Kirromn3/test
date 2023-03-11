@@ -1,40 +1,52 @@
 local x =  game.Workspace.Vehicles:GetChildren()
 if x:FindFirstChild("BlackHawk") ~= nil then
-game.Workspace.Vehicles.BlackHawk.Name = "eeee"
-game.Workspace.Vehicles.BlackHawk.Name = "eeee"
+if game.Workspace.Vehicles:FindFirstChild("BlackHawk") then
 
 game.Workspace.Vehicles.BlackHawk.Name = "eeee"
-game.Workspace.Vehicles.BlackHawk.Name = "eeee"
-game.Workspace.Vehicles.BlackHawk.Name = "eeee"
-game.Workspace.Vehicles.BlackHawk.Name = "eeee"
-game.Workspace.Vehicles.BlackHawk.Name = "eeee"
-game.Workspace.Vehicles.BlackHawk.Name = "eeee"
-game.Workspace.Vehicles.BlackHawk.Name = "eeee"
-game.Workspace.Vehicles.BlackHawk.Name = "eeee"
-game.Workspace.Vehicles.BlackHawk.Name = "eeee"
-game.Workspace.Vehicles.BlackHawk.Name = "eeee"
-game.Workspace.Vehicles.BlackHawk.Name = "eeee"
-game.Workspace.Vehicles.BlackHawk.Name = "eeee"
-game.Workspace.Vehicles.BlackHawk.Name = "eeee"
-game.Workspace.Vehicles.BlackHawk.Name = "eeee"
-game.Workspace.Vehicles.BlackHawk.Name = "eeee"
-game.Workspace.Vehicles.BlackHawk.Name = "eeee"
-game.Workspace.Vehicles.BlackHawk.Name = "eeee"
-game.Workspace.Vehicles.BlackHawk.Name = "eeee"
-game.Workspace.Vehicles.BlackHawk.Name = "eeee"
-game.Workspace.Vehicles.BlackHawk.Name = "eeee"
-game.Workspace.Vehicles.BlackHawk.Name = "eeee"
-game.Workspace.Vehicles.BlackHawk.Name = "eeee"
-game.Workspace.Vehicles.BlackHawk.Name = "eeee"
-game.Workspace.Vehicles.BlackHawk.Name = "eeee"
-game.Workspace.Vehicles.BlackHawk.Name = "eeee"
-game.Workspace.Vehicles.BlackHawk.Name = "eeee"
-game.Workspace.Vehicles.BlackHawk.Name = "eeee"
-game.Workspace.Vehicles.BlackHawk.Name = "eeee"
-game.Workspace.Vehicles.BlackHawk.Name = "eeee"
-game.Workspace.Vehicles.BlackHawk.Name = "eeee"
-game.Workspace.Vehicles.BlackHawk.Name = "eeee"
+end
+if game.Workspace.Vehicles:FindFirstChild("BlackHawk") then
 
+game.Workspace.Vehicles.BlackHawk.Name = "eeee"
+end if game.Workspace.Vehicles:FindFirstChild("BlackHawk") then
+
+game.Workspace.Vehicles.BlackHawk.Name = "eeee"
+end if game.Workspace.Vehicles:FindFirstChild("BlackHawk") then
+
+game.Workspace.Vehicles.BlackHawk.Name = "eeee"
+end if game.Workspace.Vehicles:FindFirstChild("BlackHawk") then
+
+game.Workspace.Vehicles.BlackHawk.Name = "eeee"
+end if game.Workspace.Vehicles:FindFirstChild("BlackHawk") then
+
+game.Workspace.Vehicles.BlackHawk.Name = "eeee"
+end if game.Workspace.Vehicles:FindFirstChild("BlackHawk") then
+
+game.Workspace.Vehicles.BlackHawk.Name = "eeee"
+end if game.Workspace.Vehicles:FindFirstChild("BlackHawk") then
+
+game.Workspace.Vehicles.BlackHawk.Name = "eeee"
+end if game.Workspace.Vehicles:FindFirstChild("BlackHawk") then
+
+game.Workspace.Vehicles.BlackHawk.Name = "eeee"
+end if game.Workspace.Vehicles:FindFirstChild("BlackHawk") then
+
+game.Workspace.Vehicles.BlackHawk.Name = "eeee"
+end if game.Workspace.Vehicles:FindFirstChild("BlackHawk") then
+
+game.Workspace.Vehicles.BlackHawk.Name = "eeee"
+end if game.Workspace.Vehicles:FindFirstChild("BlackHawk") then
+
+game.Workspace.Vehicles.BlackHawk.Name = "eeee"
+end if game.Workspace.Vehicles:FindFirstChild("BlackHawk") then
+
+game.Workspace.Vehicles.BlackHawk.Name = "eeee"
+end if game.Workspace.Vehicles:FindFirstChild("BlackHawk") then
+
+game.Workspace.Vehicles.BlackHawk.Name = "eeee"
+end if game.Workspace.Vehicles:FindFirstChild("BlackHawk") then
+
+game.Workspace.Vehicles.BlackHawk.Name = "eeee"
+end
 end
 spawn(function()
 
