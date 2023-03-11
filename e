@@ -29,10 +29,10 @@ local dependencies = {
         character_util = require(replicated_storage.Game.CharacterUtil),
         paraglide = require(replicated_storage.Game.Paraglide)
     },
-    helicopters = { Heli = true }, -- heli is included in free vehicles
-    motorcycles = { Heli = true }, -- volt type is "custom" but works the same as a motorcycle
-    free_vehicles = { Heli = true },
-    unsupported_vehicles = { Wraith = true, BlackHawk = true },
+    helicopters = { "Heli" }, -- heli is included in free vehicles
+    motorcycles = { "Heli" }, -- volt type is "custom" but works the same as a motorcycle
+    free_vehicles = { "Heli" },
+    unsupported_vehicles = { "Wraith", "BlackHawk" },
     door_positions = { }    
 };
 
